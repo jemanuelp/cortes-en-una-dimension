@@ -1,5 +1,5 @@
 // ** React Imports
-import { Suspense, lazy } from 'react'
+import React, { Suspense, lazy } from 'react'
 import ReactDOM from 'react-dom'
 
 // ** Redux Imports
